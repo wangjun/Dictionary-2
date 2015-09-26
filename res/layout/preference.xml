@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory>
+        <CheckBoxPreference
+             android:key="@string/notification_key"
+             android:title="@string/notification_title"
+             android:summary="@string/notification_summary"/>
+        <CheckBoxPreference
+            android:key="@string/broadcastreceiver_key"
+            android:title="@string/broadcastreceiver_title"
+            android:summary="@string/broadcastreceiver_summary"/>
+        <cu.dictionary.preferenceactivity.SetFontSize
+            android:key="@string/setfontsize_key"
+            android:title="@string/setfontsize_title"
+            android:summary="@string/setfontsize_summary"/>
+    </PreferenceCategory>
+    <PreferenceCategory>
+        <cu.dictionary.preferenceactivity.Producer
+            android:title="@string/producer_title"
+            android:summary="@string/producer_summary"
+            android:negativeButtonText="@null"
+            android:positiveButtonText="@null"/>
+    </PreferenceCategory>
+
+
+</PreferenceScreen>

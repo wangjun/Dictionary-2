@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dictionary_version">1</string>
+    <string name="dictionary_file">ejdict</string>
+	<integer-array name="font_size">
+	    <item>12</item>
+	    <item>18</item>
+	    <item>24</item>
+	</integer-array>
+	<integer name="max_list_count">30</integer>
+</resources>

@@ -1,0 +1,26 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">別窓英和辞書F</string>
+    <!-- string name="title_activity_main">Dictionary</string -->
+    <string name="dictionary_update_message">Successful Update Dictionary</string>
+    <string name="notification_summary">通知領域に表示して、いつでも呼び出せるようにします</string>
+    <string name="notification_title">通知領域に表示</string>
+    <string name="notify_message">辞書を開く</string>
+    <string name="notification_message">Dictionary</string>
+    <string name="setfontsize_title">フォントサイズの調整</string>
+    <string name="setfontsize_summary">文字のサイズを変更します。</string>
+    <string name="producermailaddress">mailto:craftas.project@google.com</string>
+    <string name="producerbotton_message">メールを送る</string>
+    <string name="producer_title">制作者情報</string>
+    <string name="producer_summary">制作者情報や連絡方法</string>
+    <string name="broadcastreceiver_title">スタートアップ</string>
+    <string name="broadcastreceiver_summary">端末起動時にアプリを通知領域に登録します</string>
+    <string name="search_message">検索中…少々お待ち下さい</string>
+    <string-array name="font_name">
+        <item >小</item>
+        <item >中</item>
+        <item >大</item>
+    </string-array>
+    <string name="description">image</string>
+
+</resources>

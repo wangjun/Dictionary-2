@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="notification_key">NOTIFICATION_KEY</string>
+    <string name="setfontsize_key">SETFONTSIZE_KEY</string>
+    <string name="broadcastreceiver_key">BROADCASTRECEIVER_KEY</string>
+    <string name="window_pos_x">WINDOW_POS_X</string>
+    <string name="window_pos_y">WINDOW_POS_Y</string>
+</resources>
